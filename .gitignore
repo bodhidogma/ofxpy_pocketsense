@@ -6,6 +6,8 @@
 # *~
 *~
 *.pyc
-ofx_config.cfg
-sites.dat
 xfr
+# personal bank configuration settings
+sites.dat
+# very private data
+ofx_config.cfg
