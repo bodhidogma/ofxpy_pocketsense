@@ -1,7 +1,5 @@
 PocketSense OFX Import tool
 ----------------
-
-<br/>
 [http://sites.google.com/site/pocketsense/](http://sites.google.com/site/pocketsense/)<br/>
 Intial version: rlc: Feb-2010
 
