@@ -67,6 +67,7 @@ quietScrub: No
 
 #   Go to http://www.ofxhome.com/index.php/home/directory 
 #   to get data for your institutions
+#   Or http://wiki.gnucash.org/wiki/OFX_Direct_Connect_Bank_Settings
 
 # Available field names and descriptions
 # Field names must match the pre-defined names, but they are NOT case sensitive.
